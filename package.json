@@ -1,0 +1,23 @@
+{
+  "name": "gh-actions-semantic-release",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgandecki/gh-actions-semantic-release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgandecki/gh-actions-semantic-release/issues"
+  },
+  "homepage": "https://github.com/lgandecki/gh-actions-semantic-release#readme",
+  "devDependencies": {
+    "semantic-release": "^17.0.7"
+  }
+}
