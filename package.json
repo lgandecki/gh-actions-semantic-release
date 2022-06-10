@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/lgandecki/gh-actions-semantic-release#readme",
   "devDependencies": {
-    "semantic-release": "^17.0.7"
+    "semantic-release": "^19.0.3"
   }
 }
